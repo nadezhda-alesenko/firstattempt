@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90vw" height="90vh">
+        <ellipse cx="200" cy="380" rx="45" ry="15"  fill="#d0d2da"></ellipse>
+        <circle cx="200" cy="300" r="80" fill="#ffa300"></circle>
+        <circle cx="235" cy="280" r="30" fill="white"></circle>
+        <circle cx="200" cy="280" r="30" fill="white"></circle>
+        <circle cx="220" cy="310" r="10" fill="black"></circle>
+        <circle cx="240" cy="280" r="6" fill="black"></circle>
+        <circle cx="205" cy="280" r="6" fill="black"></circle>
+        <ellipse cx="200" cy="260" rx="50" ry="20"  fill="#ffa300" style="transform: rotate(20deg);" ></ellipse>
+        <ellipse cx="210" cy="340" rx="15" ry="7"  fill="#d41641"></ellipse>
+        <polygon points="140,255 185,235 153,215" fill="#ffa300"></polygon>
+        <polygon points="150,240 170,230 155,220" fill="black"></polygon>
+        <polygon points="270,265 240,235 265,225" fill="#ffa300"></polygon>
+        <polygon points="265,250 247,235 263,230" fill="black"></polygon>
+        <polygon points="55,295 75,320 90,292" fill="white"></polygon>
+
+        <ellipse cx="400" cy="380" rx="45" ry="15"  fill="#d0d2da"></ellipse>
+        <circle cx="400" cy="300" r="80" fill="#fed700"></circle>
+        <circle cx="405" cy="280" r="30" fill="white"></circle>
+        <circle cx="370" cy="280" r="30" fill="white"></circle>
+        <circle cx="365" cy="280" r="6" fill="black"></circle>
+        <circle cx="400" cy="280" r="6" fill="black"></circle>
+        <ellipse cx="385" cy="340" rx="7" ry="15"  fill="#d41641"></ellipse>
+</svg>
