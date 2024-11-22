@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="90vw" height="90vh">
         <ellipse cx="200" cy="380" rx="45" ry="15"  fill="#d0d2da"></ellipse>
         <circle cx="200" cy="300" r="80" fill="#ffa300"></circle>
